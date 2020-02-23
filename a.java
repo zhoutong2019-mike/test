@@ -21,6 +21,10 @@
 			//继续增加注释 ，分支第二次修改
 	}
 
-
+	public void study (Employee employee){
+		System.out.println(employee.getName()+"员工需要休息！")
+		
+			//分支需要Employee 的代码
+	}
 	
 }
