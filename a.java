@@ -9,5 +9,9 @@
 		super();
 	//版本4.0
 	}
+
+	public void learn(){
+		System.out.println("学生正在学习！");
+	}
 	
 }
