@@ -12,6 +12,12 @@
 
 	public void learn(){
 		System.out.println("学生正在学习！");
+		//分支mike增加了此代码！
+	}
+
+	public void learn(String name){
+		System.out.println(name+"mike正在学习！")
+			//真正的分支增加了此段代码 ，分支为mike！
 	}
 	
 }
