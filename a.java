@@ -18,6 +18,13 @@
 	public void learn(String name){
 		System.out.println(name+"mike正在学习！")
 			//真正的分支增加了此段代码 ，分支为mike！
+			//继续增加注释 ，分支第二次修改
+	}
+
+	public void study (Employee employee){
+		System.out.println(employee.getName()+"员工需要休息！")
+		
+			//分支需要Employee 的代码
 	}
 	
 }
